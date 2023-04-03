@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SCPSAPP</string>
+    <string name="btn_entrar">TELA_LOGIN</string>
+</resources>
